@@ -1,4 +1,4 @@
-# A sale management software
+# A sales management software
 I had build it with C#. I used SQL Server and Visual Studio tools.
 
 Thanks to free course at Tim O Day website.
