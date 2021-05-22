@@ -1,5 +1,6 @@
 # A sales management software
-I had build it with C#. I used SQL Server and Visual Studio tools.
+
+My friend and I had built this project based on C# with SQL Server and Visual Studio tools. About 80% of features are working fluently. We had only more than 2 months to self-study.
 
 Thanks to free course at Tim O Day website.
 
